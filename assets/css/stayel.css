@@ -1,0 +1,66 @@
+.navbar {
+    background-color: #ffffff;
+    border-radius: 0.3rem;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar-nav li a {
+    font-size: 1rem;
+    color: #333333;
+  }
+  
+  .navbar-nav li a:hover {
+    color: #000000;
+  }
+  
+  .form-control {
+    width: 200px;
+  }
+  
+  .btn-outline-success {
+    background-color: #ffffff;
+    border-color: #007bff;
+    color: #007bff;
+  }
+  
+  .btn-outline-success:hover {
+    background-color: #ffffff;
+    border-color: #0056b3;
+    color: #0056b3;
+  }
+.form-x{
+    width: 100%;
+    justify-content: end;
+}  
+.img{
+    width: 100%;
+max-width: 300px;
+text-align: center;
+align-self: center;
+margin-top: 20px;
+}
+.form-control{
+    width: auto;
+    margin-left: 5px;
+}
+.nav-img{
+  width: 50%;
+}
+#cart_icon{
+  border: 1px solid #007bff;
+  font-size: small;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  font-weight: bold;
+  color: red;
+}
+.nav-link{
+  padding: 0px;
+  padding-top: 8px;
+}

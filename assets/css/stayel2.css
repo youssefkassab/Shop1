@@ -1,0 +1,20 @@
+.card-img-top {
+    max-width: 100%;
+    height: auto;
+  }
+.row-1{
+    flex-wrap: wrap;
+}
+#prodect_page div{
+margin-top: 10px;
+}
+h1{
+  text-align: center;
+}
+body{
+ background-color: whitesmoke;
+}
+nav{
+  background-color: white;
+  box-shadow: 0px 0px 10px black;
+}
